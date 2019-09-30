@@ -1,0 +1,6 @@
+CITY:van,mersin,ankara
+COPMASS:south,west,north
+FRUIT:apple,grape,orange
+COLOR:blue,red,pink,green
+ANIMAL:sheep,horse,snake
+FLAG:russia,germany,turkey
